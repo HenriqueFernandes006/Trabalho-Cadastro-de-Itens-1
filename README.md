@@ -1,10 +1,10 @@
- ERP de Gestão de Estoque
+#  ERP de Gestão de Estoque
 
-  Sobre o Projeto
+##  Sobre o Projeto
 
 Este é um **Sistema de Gestão de Estoque (ERP)** desenvolvido em Python, projetado para auxiliar no controle e acompanhamento de produtos. Ele permite realizar operações CRUD (Criar, Ler, Atualizar, Excluir) básicas e oferece um **Dashboard** com visualizações de dados para análise estratégica do inventário, como a **Curva ABC**.
 
- Funcionalidades
+##  Funcionalidades
 
 O sistema é operado através de um menu interativo e oferece as seguintes opções:
 
